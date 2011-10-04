@@ -24,3 +24,4 @@ TARGET_PREBUILT_KERNEL := device/samsung/epic4g/kernel
 BOARD_CUSTOM_RECOVERY_KEYMAPPING:= ../../device/samsung/epic4g/recovery_ui.c
 #BOARD_HAS_NO_SELECT_BUTTON := true
 
+TARGET_USERIMAGES_USE_EXT4 := true
